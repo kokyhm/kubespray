@@ -1,0 +1,17 @@
+{
+  "ciliumcli": {
+    "current_version": "v0.16.0",
+    "latest_version": "v0.16.18",
+    "release": {
+      "tagName": "v0.16.18",
+      "url": "https://github.com/cilium/cilium-cli/releases/tag/v0.16.18",
+      "description": "## What's Changed\r\n* Update stable release to v0.16.17 by @michi-covalent in https://github.com/cilium/cilium-cli/pull/2794\r\n* action: Run version command with --client flag by @michi-covalent in https://github.com/cilium/cilium-cli/pull/2797\r\n* chore(deps): update ubuntu:24.04 docker digest to 56a8952 by @renovate in https://github.com/cilium/cilium-cli/pull/2796\r\n* vendor: Remove gops dependency by @michi-covalent in https://github.com/cilium/cilium-cli/pull/2798\r\n* github: Remove unused files by @michi-covalent in https://github.com/cilium/cilium-cli/pull/2801\r\n* chore(deps): update ubuntu:24.04 docker digest to dfc1087 by @renovate in https://github.com/cilium/cilium-cli/pull/2800\r\n* release: Install curl by @michi-covalent in https://github.com/cilium/cilium-cli/pull/2803\r\n* chore(deps): update azure/login action to v2.2.0 by @renovate in https://github.com/cilium/cilium-cli/pull/2799\r\n* Prepare for v0.16.18 release by @michi-covalent in https://github.com/cilium/cilium-cli/pull/2805\r\n\r\n\r\n**Full Changelog**: https://github.com/cilium/cilium-cli/compare/v0.16.17...v0.16.18",
+      "publishedAt": "2024-09-20T01:18:16Z",
+      "isLatest": true,
+      "component": "ciliumcli",
+      "owner": "cilium",
+      "repo": "cilium-cli",
+      "release_type": "release"
+    }
+  }
+}
