@@ -1,0 +1,17 @@
+{
+  "yq": {
+    "current_version": "v4.42.1",
+    "latest_version": "v4.44.3",
+    "release": {
+      "tagName": "v4.44.3",
+      "url": "https://github.com/mikefarah/yq/releases/tag/v4.44.3",
+      "description": "  - Fixed upper-case file extension detection, Thanks @ryenus (#2121)\r\n  - Log printing follow no-colors flag #2082\r\n  - Skip and warn when interpolating strings and theres a unclosed bracket #2083\r\n  - Fixed CSV content starting with # issue #2076\r\n  - Bumped dependencies",
+      "publishedAt": "2024-08-05T07:17:07Z",
+      "isLatest": true,
+      "component": "yq",
+      "owner": "mikefarah",
+      "repo": "yq",
+      "release_type": "release"
+    }
+  }
+}
