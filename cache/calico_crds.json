@@ -1,0 +1,7 @@
+{
+  "tagName": "v3.28.2",
+  "url": "https://github.com/projectcalico/calico/releases/tag/v3.28.2",
+  "description": "\nRelease notes can be found [on GitHub](https://github.com/projectcalico/calico/blob/v3.28.2/release-notes/v3.28.2-release-notes.md)\n\nAttached to this release are the following artifacts:\n\n- `release-v3.28.2.tgz`: container images, binaries, and kubernetes manifests.\n- `calico-windows-v3.28.2.zip`: Calico for Windows.\n- `tigera-operator-v3.28.2.tgz`: Calico Helm v3 chart.\n- ocp.tgz: Manifest bundle for OpenShift.\n\nAdditional links:\n\n- [VPP data plane release information](https://github.com/projectcalico/vpp-dataplane/blob/master/RELEASE_NOTES.md)\n\n",
+  "publishedAt": "2024-09-18T18:59:03Z",
+  "isLatest": true
+}
