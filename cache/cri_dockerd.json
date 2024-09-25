@@ -1,0 +1,7 @@
+{
+  "tagName": "v0.3.15",
+  "url": "https://github.com/Mirantis/cri-dockerd/releases/tag/v0.3.15",
+  "description": "## What's Changed\r\n* [release/0.3] Do not abort image-pull in Extracting phase  by @xinfengliu in https://github.com/Mirantis/cri-dockerd/pull/373\r\n* Remove centos 7 from CI by @nwneisen in https://github.com/Mirantis/cri-dockerd/pull/384\r\n* Set CI docker version to 22.04 by @nwneisen in https://github.com/Mirantis/cri-dockerd/pull/385\r\n\r\n\r\n**Full Changelog**: https://github.com/Mirantis/cri-dockerd/compare/v0.3.14...v0.3.15",
+  "publishedAt": "2024-07-11T19:40:39Z",
+  "isLatest": true
+}
