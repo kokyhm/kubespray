@@ -1,0 +1,7 @@
+{
+  "tagName": "v0.4.1",
+  "url": "https://github.com/containers/youki/releases/tag/v0.4.1",
+  "description": "<!-- Release notes generated using configuration in .github/release.yml at v0.4.1 -->\r\n\r\nThis point release is primarily for updating our nc dependency version , as the last update was breaking musl static builds, see https://github.com/containers/youki/issues/2894 . Apart from that there are not changes in this point release. You can skip updating if you do not use musl/ not experienced any breakage related to to builds.\r\n\r\n## What's Changed\r\n### \ud83e\uddea Test improvements and Misc Fixes\r\n* update nc version to 0.9.3 by dependabot in https://github.com/containers/youki/pull/2895\r\n* prepare for version 0.4.1 by @YJDoc2 in https://github.com/containers/youki/pull/2897\r\n* Update Cargo.toml for v0.4.1 by @utam0k in https://github.com/containers/youki/pull/2904\r\n### Other Changes\r\n* Release for v0.4.1 by @github-actions in https://github.com/containers/youki/pull/2896\r\n\r\n\r\n**Full Changelog**: https://github.com/containers/youki/compare/v0.4.0...v0.4.1",
+  "publishedAt": "2024-09-04T13:46:28Z",
+  "isLatest": true
+}
