@@ -1,0 +1,7 @@
+{
+  "tagName": "v1.16.1",
+  "url": "https://github.com/containers/skopeo/releases/tag/v1.16.1",
+  "description": "* [release-1.16] Bump Skopeo to v1.16.1, c/common to v0.60.2, c/image to v5.32.2 by @TomSweeneyRedHat in https://github.com/containers/skopeo/pull/2406\r\n\r\n**Full Changelog**: https://github.com/containers/skopeo/compare/v1.16.0...v1.16.1",
+  "publishedAt": "2024-08-22T20:54:55Z",
+  "isLatest": true
+}
