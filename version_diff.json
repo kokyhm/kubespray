@@ -1,0 +1,13 @@
+{
+  "gvisor_runsc": {
+    "current_version": 20240305,
+    "latest_version": "20240916",
+    "release": {
+      "name": "release-20240916.0",
+      "component": "gvisor_runsc",
+      "owner": "google",
+      "repo": "gvisor",
+      "release_type": "tag"
+    }
+  }
+}
