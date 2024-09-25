@@ -1,0 +1,7 @@
+{
+  "tagName": "1.17",
+  "url": "https://github.com/containers/crun/releases/tag/1.17",
+  "description": "- Add `--log-level` option.  It accepts `error`, `warning` and `error`.\r\n- Add debug logs for container creation.\r\n- Fix double-free in crun exec code that could lead to a crash.\r\n- Allow passing an ID to the journald log driver.\r\n- Report \"executable not found\" errors after tty has been setup.\r\n- Do not treat EPIPE from hooks as an error.\r\n- Make sure `DefaultDependencies` is correctly set in the systemd scope.\r\n- Improve the error message when the container process is not found.\r\n- Improve error handling for the mnt namespace restoration.\r\n- Fix error handling for `getpwuid_r`, `recvfrom` and `libcrun_kill_linux`.\r\n- Fix handling of device paths with trailing slashes.\r\n",
+  "publishedAt": "2024-09-09T13:40:08Z",
+  "isLatest": true
+}
