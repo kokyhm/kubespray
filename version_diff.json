@@ -1,0 +1,13 @@
+{
+  "gvisor_containerd_shim": {
+    "current_version": 20240305,
+    "latest_version": "20240923",
+    "release": {
+      "name": "release-20240923.0",
+      "component": "gvisor_containerd_shim",
+      "owner": "google",
+      "repo": "gvisor",
+      "release_type": "tag"
+    }
+  }
+}
